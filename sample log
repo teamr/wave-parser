@@ -1,0 +1,935 @@
+[2014/10/02 15:02]  FINAL_Timer1 shouts: 0.000000Timer Started.
+[2014/10/02 15:02]  FINAL_Timer1 shouts: 22.532417Target found.
+[2014/10/02 15:02]  return_teleporter: You have reached the target.
+[2014/10/02 15:02]  return_teleporter: Right click on the blue screen and choose teleport.
+[2014/10/02 15:02]  FINAL_Timer1 shouts: 0.000000Timer Started.
+[2014/10/02 15:02]  FINAL_Timer1 shouts: 11.266208Target found.
+[2014/10/02 15:02]  return_teleporter: You have reached the target.
+[2014/10/02 15:02]  return_teleporter: Right click on the blue screen and choose teleport.
+[2014/10/02 15:03]  Invisible Trial Start Button shouts: start_trial_2 BUTTON TOUCHED
+[2014/10/02 15:03]  2 BUTTON shouts: rez_target_2 BUTTON TOUCHED
+[2014/10/02 15:03]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:03]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:03]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:03]  FINAL_Vector: Position: 55.082092, 50.588009
+[2014/10/02 15:03]  FINAL_Vector: Position: 56.333981, 49.677536
+[2014/10/02 15:03]  FINAL_Vector: Position: 56.335793, 49.677422
+[2014/10/02 15:03]  FINAL_Vector: Position: 58.395840, 50.691704
+[2014/10/02 15:03]  FINAL_Vector: Position: 62.019020, 52.465729
+[2014/10/02 15:03]  FINAL_Vector: Position: 65.340622, 54.092060
+[2014/10/02 15:03]  FINAL_Vector: Position: 68.865486, 56.356155
+[2014/10/02 15:03]  FINAL_Vector: Position: 72.432770, 58.240799
+[2014/10/02 15:03]  FINAL_Vector: Position: 75.704079, 59.994236
+[2014/10/02 15:03]  FINAL_Vector: Position: 78.786186, 62.706738
+[2014/10/02 15:03]  FINAL_Vector: Position: 79.934769, 66.673767
+[2014/10/02 15:03]  FINAL_Vector: Position: 79.140762, 70.316345
+[2014/10/02 15:03]  FINAL_Vector: Position: 76.917526, 73.728859
+[2014/10/02 15:03]  FINAL_Vector: Position: 73.347710, 75.572578
+[2014/10/02 15:03]  FINAL_Vector: Position: 69.954170, 77.041939
+[2014/10/02 15:03]  FINAL_Vector: Position: 66.148643, 78.616058
+[2014/10/02 15:03]  FINAL_Vector: Position: 62.158527, 79.312180
+[2014/10/02 15:03]  FINAL_Vector: Position: 58.405243, 79.778618
+[2014/10/02 15:03]  FINAL_Vector: Position: 54.568306, 78.623146
+[2014/10/02 15:03]  FINAL_Vector: Position: 52.033409, 75.408806
+[2014/10/02 15:03]  FINAL_Vector: Position: 51.488625, 71.690704
+[2014/10/02 15:03]  FINAL_Vector: Position: 52.828259, 67.887505
+[2014/10/02 15:04]  FINAL_Vector: Position: 52.860527, 63.670261
+[2014/10/02 15:04]  FINAL_Vector: Position: 53.070320, 59.857826
+[2014/10/02 15:04]  FINAL_Vector: Position: 53.909576, 55.777702
+[2014/10/02 15:04]  FINAL_Vector: Position: 56.126606, 52.425892
+[2014/10/02 15:04]  FINAL_Vector: Position: 58.496029, 49.514023
+[2014/10/02 15:04]  FINAL_Vector: Position: 62.177635, 48.068531
+[2014/10/02 15:04]  FINAL_Vector: Position: 66.123268, 48.880920
+[2014/10/02 15:04]  FINAL_Vector: Position: 69.409866, 50.596996
+[2014/10/02 15:04]  FINAL_Vector: Position: 72.298355, 53.413380
+[2014/10/02 15:04]  FINAL_Vector: Position: 74.394104, 56.895245
+[2014/10/02 15:04]  FINAL_Vector: Position: 75.153709, 60.572536
+[2014/10/02 15:04]  FINAL_Vector: Position: 75.142120, 64.607002
+[2014/10/02 15:04]  FINAL_Vector: Position: 75.077744, 68.354370
+[2014/10/02 15:04]  FINAL_Vector: Position: 72.122719, 70.777466
+[2014/10/02 15:04]  FINAL_Vector: Position: 67.934799, 71.203690
+[2014/10/02 15:04]  FINAL_Vector: Position: 63.958630, 71.009415
+[2014/10/02 15:04]  FINAL_Vector: Position: 59.808178, 70.805496
+[2014/10/02 15:04]  FINAL_Vector: Position: 55.597420, 70.598274
+[2014/10/02 15:04]  FINAL_Vector: Position: 51.687641, 70.405769
+[2014/10/02 15:04]  FINAL_Vector: Position: 48.119354, 68.517769
+[2014/10/02 15:04]  FINAL_Vector: Position: 46.913635, 64.680946
+[2014/10/02 15:04]  FINAL_Vector: Position: 48.616043, 61.356022
+[2014/10/02 15:04]  FINAL_Vector: Position: 48.914883, 57.671078
+[2014/10/02 15:04]  FINAL_Vector: Position: 49.585041, 53.511665
+[2014/10/02 15:04]  FINAL_Vector: Position: 52.470970, 50.723389
+[2014/10/02 15:04]  FINAL_Vector: Position: 55.914734, 49.145668
+[2014/10/02 15:04]  FINAL_Vector: Position: 59.985870, 49.185913
+[2014/10/02 15:04]  FINAL_Vector: Position: 64.017807, 49.045330
+[2014/10/02 15:04]  FINAL_Vector: Position: 67.713654, 48.916584
+[2014/10/02 15:04]  FINAL_Vector: Position: 71.781609, 49.700584
+[2014/10/02 15:04]  FINAL_Vector: Position: 75.496696, 51.450260
+[2014/10/02 15:04]  FINAL_Vector: Position: 78.430542, 53.842632
+[2014/10/02 15:04]  FINAL_Vector: Position: 80.343994, 57.429607
+[2014/10/02 15:04]  FINAL_Vector: Position: 81.671646, 60.897587
+[2014/10/02 15:04]  FINAL_Vector: Position: 81.653069, 64.936943
+[2014/10/02 15:04]  FINAL_Vector: Position: 81.628059, 65.332619
+[2014/10/02 15:04]  FINAL_Vector: Position: 79.000374, 65.501198
+[2014/10/02 15:04]  FINAL_Vector: Position: 74.926605, 65.695648
+[2014/10/02 15:04]  FINAL_Vector: Position: 71.050499, 64.630798
+[2014/10/02 15:04]  FINAL_Vector: Position: 68.232452, 62.149616
+[2014/10/02 15:04]  FINAL_Vector: Position: 68.031120, 61.869926
+[2014/10/02 15:04]  FINAL_Vector: Position: 68.002357, 60.411663
+[2014/10/02 15:04]  FINAL_Vector: Position: 67.961098, 58.346054
+[2014/10/02 15:04]  FINAL_Vector: Position: 68.054680, 54.300583
+[2014/10/02 15:04]  FINAL_Vector: Position: 69.941719, 50.742489
+[2014/10/02 15:04]  FINAL_Vector: Position: 73.402809, 50.991547
+[2014/10/02 15:04]  FINAL_Vector: Position: 72.658417, 54.454865
+[2014/10/02 15:04]  FINAL_Vector: Position: 68.667465, 54.686729
+[2014/10/02 15:04]  FINAL_Vector: Position: 64.969376, 54.643551
+[2014/10/02 15:04]  FINAL_Vector: Position: 60.935951, 54.597847
+[2014/10/02 15:04]  FINAL_Vector: Position: 56.902374, 54.550621
+[2014/10/02 15:04]  FINAL_Vector: Position: 53.152775, 54.571564
+[2014/10/02 15:04]  FINAL_Vector: Position: 49.278114, 55.762039
+[2014/10/02 15:04]  FINAL_Vector: Position: 45.931141, 57.047855
+[2014/10/02 15:04]  FINAL_Vector: Position: 45.768318, 57.425564
+[2014/10/02 15:04]  FINAL_Vector: Position: 45.069580, 59.129551
+[2014/10/02 15:05]  FINAL_Vector: Position: 44.938072, 60.515297
+[2014/10/02 15:05]  FINAL_Vector: Position: 44.630234, 62.835155
+[2014/10/02 15:05]  FINAL_Vector: Position: 44.610283, 65.065536
+[2014/10/02 15:05]  FINAL_Vector: Position: 44.937023, 67.463455
+[2014/10/02 15:05]  FINAL_Vector: Position: 45.590473, 70.137466
+[2014/10/02 15:05]  FINAL_Vector: Position: 46.581841, 72.530045
+[2014/10/02 15:05]  FINAL_Vector: Position: 47.644115, 74.521561
+[2014/10/02 15:05]  FINAL_Vector: Position: 48.582867, 75.721130
+[2014/10/02 15:05]  FINAL_Vector: Position: 50.295395, 77.893425
+[2014/10/02 15:05]  FINAL_Vector: Position: 52.719418, 79.740364
+[2014/10/02 15:05]  FINAL_Vector: Position: 55.337963, 81.391624
+[2014/10/02 15:05]  FINAL_Vector: Position: 59.146416, 82.754898
+[2014/10/02 15:05]  FINAL_Vector: Position: 63.159039, 82.434975
+[2014/10/02 15:05]  FINAL_Vector: Position: 66.898888, 81.818871
+[2014/10/02 15:05]  FINAL_Vector: Position: 70.762543, 80.657745
+[2014/10/02 15:05]  FINAL_Vector: Position: 74.304306, 79.593384
+[2014/10/02 15:05]  FINAL_Vector: Position: 77.914711, 77.674110
+[2014/10/02 15:05]  FINAL_Vector: Position: 79.650902, 74.051872
+[2014/10/02 15:05]  FINAL_Vector: Position: 81.018211, 70.615517
+[2014/10/02 15:05]  FINAL_Vector: Position: 82.509705, 66.867073
+[2014/10/02 15:05]  FINAL_Vector: Position: 83.334190, 62.876160
+[2014/10/02 15:05]  FINAL_Vector: Position: 81.892166, 59.508305
+[2014/10/02 15:05]  FINAL_Vector: Position: 80.223228, 55.835430
+[2014/10/02 15:05]  FINAL_Vector: Position: 78.538612, 52.133118
+[2014/10/02 15:05]  FINAL_Vector: Position: 76.216957, 49.158577
+[2014/10/02 15:05]  FINAL_Vector: Position: 72.542435, 47.553616
+[2014/10/02 15:05]  FINAL_Vector: Position: 68.977058, 45.571629
+[2014/10/02 15:05]  FINAL_Vector: Position: 65.415466, 44.778954
+[2014/10/02 15:05]  FINAL_Vector: Position: 61.399605, 45.122932
+[2014/10/02 15:05]  FINAL_Vector: Position: 57.410381, 45.757988
+[2014/10/02 15:05]  FINAL_Vector: Position: 54.054661, 47.291470
+[2014/10/02 15:05]  FINAL_Vector: Position: 50.622734, 49.807320
+[2014/10/02 15:05]  FINAL_Vector: Position: 48.090157, 52.919682
+[2014/10/02 15:05]  FINAL_Vector: Position: 46.482204, 55.721100
+[2014/10/02 15:05]  FINAL_Vector: Position: 45.149120, 58.962017
+[2014/10/02 15:05]  FINAL_Vector: Position: 44.749531, 61.972034
+[2014/10/02 15:05]  FINAL_Vector: Position: 44.618946, 65.025330
+[2014/10/02 15:05]  FINAL_Vector: Position: 45.032345, 68.180878
+[2014/10/02 15:05]  FINAL_Vector: Position: 45.136333, 68.970940
+[2014/10/02 15:05]  FINAL_Vector: Position: 45.280811, 69.206657
+[2014/10/02 15:05]  FINAL_Vector: Position: 45.296837, 69.232796
+[2014/10/02 15:05]  FINAL_Vector: Position: 47.545803, 68.945488
+[2014/10/02 15:05]  FINAL_Vector: Position: 48.461010, 68.828583
+[2014/10/02 15:05]  FINAL_Vector: Position: 48.529819, 68.819786
+[2014/10/02 15:05]  FINAL_Vector: Position: 48.529819, 68.819786
+[2014/10/02 15:05]  FINAL_Vector: Position: 48.626427, 68.952347
+[2014/10/02 15:05]  FINAL_Vector: Position: 48.708740, 69.065300
+[2014/10/02 15:05]  FINAL_Vector: Position: 50.010021, 69.289207
+[2014/10/02 15:05]  FINAL_Vector: Position: 50.876343, 70.609131
+[2014/10/02 15:05]  FINAL_Vector: Position: 51.862904, 74.010201
+[2014/10/02 15:05]  FINAL_Vector: Position: 55.020046, 75.473221
+[2014/10/02 15:05]  FINAL_Vector: Position: 59.143196, 75.240234
+[2014/10/02 15:05]  FINAL_Vector: Position: 63.243084, 75.483978
+[2014/10/02 15:05]  FINAL_Vector: Position: 66.815475, 74.441147
+[2014/10/02 15:05]  FINAL_Vector: Position: 70.589188, 72.928413
+[2014/10/02 15:06]  FINAL_Vector: Position: 73.204163, 69.917061
+[2014/10/02 15:06]  FINAL_Vector: Position: 74.580795, 66.484337
+[2014/10/02 15:06]  FINAL_Vector: Position: 76.082993, 62.729362
+[2014/10/02 15:06]  FINAL_Vector: Position: 76.865288, 58.712540
+[2014/10/02 15:06]  FINAL_Vector: Position: 77.003571, 55.006367
+[2014/10/02 15:06]  FINAL_Vector: Position: 74.882545, 51.651691
+[2014/10/02 15:06]  FINAL_Vector: Position: 70.952644, 50.795994
+[2014/10/02 15:06]  FINAL_Vector: Position: 67.271530, 50.444511
+[2014/10/02 15:06]  FINAL_Vector: Position: 63.255463, 50.061077
+[2014/10/02 15:06]  FINAL_Vector: Position: 59.509052, 49.966999
+[2014/10/02 15:06]  FINAL_Vector: Position: 55.576782, 51.004223
+[2014/10/02 15:06]  FINAL_Vector: Position: 53.480286, 54.579048
+[2014/10/02 15:06]  FINAL_Vector: Position: 52.666477, 58.361771
+[2014/10/02 15:06]  FINAL_Vector: Position: 51.793449, 62.461174
+[2014/10/02 15:06]  FINAL_Vector: Position: 51.446213, 66.243713
+[2014/10/02 15:06]  FINAL_Vector: Position: 54.621574, 67.520531
+[2014/10/02 15:06]  FINAL_Vector: Position: 57.107182, 64.330536
+[2014/10/02 15:06]  FINAL_Vector: Position: 60.571369, 63.221897
+[2014/10/02 15:06]  FINAL_Vector: Position: 61.296215, 66.414093
+[2014/10/02 15:06]  FINAL_Vector: Position: 59.269474, 66.273911
+[2014/10/02 15:06]  FINAL_Vector: Position: 58.694614, 63.622410
+[2014/10/02 15:06]  FINAL_Vector: Position: 61.701633, 63.718918
+[2014/10/02 15:06]  FINAL_Vector: Position: 60.386284, 65.536011
+[2014/10/02 15:06]  FINAL_Vector: Position: 59.512032, 65.524628
+[2014/10/02 15:06]  FINAL_Vector: Position: 59.505547, 65.516373
+[2014/10/02 15:06]  FINAL_Timer shouts: 180.087730Time has expired. Please swim to the target.
+[2014/10/02 15:06]  return_teleporter: You have reached the target.
+[2014/10/02 15:06]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:06]  target_2 shouts: target found
+[2014/10/02 15:06]  target_2: You have reached the target.
+[2014/10/02 15:06]  target_2: Look around so you can find your way back to this target.
+[2014/10/02 15:07]  return_teleporter: When you are ready for another target hunt, type the letters okay into the chat dialog box and hit enter. Then right click on the blue screen and choose teleport.
+[2014/10/02 15:07]  Water Maze: ok
+[2014/10/02 15:07]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:07]  Invisible Trial Start Button shouts: start_trial_2 BUTTON TOUCHED
+[2014/10/02 15:07]  2 BUTTON shouts: rez_target_2 BUTTON TOUCHED
+[2014/10/02 15:07]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:07]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:07]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:07]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:07]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:07]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:07]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:07]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:07]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:07]  FINAL_Vector: Position: 73.958138, 72.274971
+[2014/10/02 15:07]  FINAL_Vector: Position: 73.752846, 72.014267
+[2014/10/02 15:07]  FINAL_Vector: Position: 72.339500, 70.860733
+[2014/10/02 15:07]  FINAL_Vector: Position: 69.367546, 68.272705
+[2014/10/02 15:08]  FINAL_Vector: Position: 66.153191, 65.491013
+[2014/10/02 15:08]  FINAL_Vector: Position: 66.064209, 65.422493
+[2014/10/02 15:08]  FINAL_Vector: Position: 67.142166, 66.361565
+[2014/10/02 15:08]  FINAL_Vector: Position: 67.142166, 66.361565
+[2014/10/02 15:08]  FINAL_Vector: Position: 67.533165, 64.028755
+[2014/10/02 15:08]  FINAL_Vector: Position: 67.191154, 61.637516
+[2014/10/02 15:08]  FINAL_Vector: Position: 65.017021, 61.465725
+[2014/10/02 15:08]  FINAL_Vector: Position: 66.440926, 61.502895
+[2014/10/02 15:08]  FINAL_Vector: Position: 66.482071, 61.504154
+[2014/10/02 15:08]  FINAL_Vector: Position: 66.482071, 61.504154
+[2014/10/02 15:08]  FINAL_Vector: Position: 66.482071, 61.504154
+[2014/10/02 15:08]  FINAL_Vector: Position: 66.801735, 60.471107
+[2014/10/02 15:08]  return_teleporter: You have reached the target.
+[2014/10/02 15:08]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:08]  target_2 shouts: target found
+[2014/10/02 15:08]  target_2: You have reached the target.
+[2014/10/02 15:08]  target_2: Look around so you can find your way back to this target.
+[2014/10/02 15:08]  FINAL_Timer shouts: 25.116146Target found.
+[2014/10/02 15:08]  FINAL_Vector: Position: 70.856781, 60.631447
+[2014/10/02 15:08]  Water Maze: ok
+[2014/10/02 15:08]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:08]  return_teleporter: When you are ready for another target hunt, type the letters okay into the chat dialog box and hit enter. Then right click on the blue screen and choose teleport.
+[2014/10/02 15:08]  Invisible Trial Start Button shouts: start_trial_2 BUTTON TOUCHED
+[2014/10/02 15:08]  2 BUTTON shouts: rez_target_2 BUTTON TOUCHED
+[2014/10/02 15:08]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:08]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:08]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:08]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:08]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:08]  FINAL_Vector: Position: 54.609844, 53.580845
+[2014/10/02 15:08]  FINAL_Vector: Position: 55.010765, 53.584938
+[2014/10/02 15:08]  FINAL_Vector: Position: 56.724552, 54.053635
+[2014/10/02 15:08]  FINAL_Vector: Position: 60.199120, 53.835003
+[2014/10/02 15:08]  FINAL_Vector: Position: 64.276207, 53.586151
+[2014/10/02 15:08]  FINAL_Vector: Position: 65.839760, 53.882267
+[2014/10/02 15:08]  FINAL_Vector: Position: 69.517471, 55.247128
+[2014/10/02 15:09]  FINAL_Vector: Position: 70.930862, 55.013885
+[2014/10/02 15:09]  FINAL_Vector: Position: 70.589722, 57.953827
+[2014/10/02 15:09]  return_teleporter: You have reached the target.
+[2014/10/02 15:09]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:09]  target_2 shouts: target found
+[2014/10/02 15:09]  target_2: You have reached the target.
+[2014/10/02 15:09]  target_2: Look around so you can find your way back to this target.
+[2014/10/02 15:09]  FINAL_Timer shouts: 12.023969Target found.
+[2014/10/02 15:09]  Water Maze: ok
+[2014/10/02 15:09]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:09]  Invisible Trial Start Button shouts: start_trial_2 BUTTON TOUCHED
+[2014/10/02 15:09]  2 BUTTON shouts: rez_target_2 BUTTON TOUCHED
+[2014/10/02 15:09]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:09]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:09]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:09]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:09]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:09]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:09]  FINAL_Vector: Position: 75.390137, 70.023003
+[2014/10/02 15:09]  FINAL_Vector: Position: 76.182152, 66.410904
+[2014/10/02 15:09]  FINAL_Vector: Position: 76.497810, 62.366238
+[2014/10/02 15:09]  FINAL_Vector: Position: 75.856339, 58.383038
+[2014/10/02 15:09]  FINAL_Vector: Position: 74.910980, 55.641651
+[2014/10/02 15:09]  FINAL_Vector: Position: 76.630165, 59.000938
+[2014/10/02 15:09]  FINAL_Vector: Position: 76.618599, 62.098045
+[2014/10/02 15:09]  FINAL_Vector: Position: 75.056557, 60.549301
+[2014/10/02 15:09]  FINAL_Vector: Position: 73.113968, 58.574169
+[2014/10/02 15:09]  FINAL_Vector: Position: 70.604424, 56.022430
+[2014/10/02 15:09]  FINAL_Vector: Position: 71.995140, 57.438179
+[2014/10/02 15:09]  FINAL_Vector: Position: 73.265587, 60.145672
+[2014/10/02 15:09]  FINAL_Vector: Position: 73.270142, 60.162605
+[2014/10/02 15:09]  FINAL_Vector: Position: 73.270142, 60.162605
+[2014/10/02 15:09]  FINAL_Vector: Position: 73.270142, 60.162605
+[2014/10/02 15:09]  FINAL_Vector: Position: 73.346115, 60.774429
+[2014/10/02 15:09]  FINAL_Vector: Position: 73.346115, 60.774429
+[2014/10/02 15:09]  FINAL_Vector: Position: 72.194138, 60.057999
+[2014/10/02 15:10]  FINAL_Vector: Position: 72.450378, 59.791599
+[2014/10/02 15:10]  return_teleporter: You have reached the target.
+[2014/10/02 15:10]  target_2 shouts: target found
+[2014/10/02 15:10]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:10]  target_2: You have reached the target.
+[2014/10/02 15:10]  target_2: Look around so you can find your way back to this target.
+[2014/10/02 15:10]  FINAL_Timer shouts: 24.468971Target found.
+[2014/10/02 15:10]  Water Maze: ok
+[2014/10/02 15:10]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:10]  return_teleporter: When you are ready for another target hunt, type the letters okay into the chat dialog box and hit enter. Then right click on the blue screen and choose teleport.
+[2014/10/02 15:10]  Invisible Trial Start Button shouts: start_trial_2 BUTTON TOUCHED
+[2014/10/02 15:10]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:10]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:10]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:10]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:10]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:10]  FINAL_Vector: Position: 74.609856, 73.580841
+[2014/10/02 15:10]  FINAL_Vector: Position: 73.835091, 71.480896
+[2014/10/02 15:11]  FINAL_Vector: Position: 73.123810, 69.553001
+[2014/10/02 15:11]  FINAL_Vector: Position: 73.122299, 69.548965
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.569412, 68.118294
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.426544, 67.638435
+[2014/10/02 15:11]  FINAL_Vector: Position: 71.929161, 64.697426
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.199181, 63.331635
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.258911, 62.996704
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.258911, 62.996704
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.258911, 62.996704
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.258911, 62.996704
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.258911, 62.996704
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.258911, 62.996704
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.112534, 62.111710
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Vector: Position: 72.012535, 61.506596
+[2014/10/02 15:11]  FINAL_Probe: I think the target is here at <72.012535,61.506596,19.405645>
+[2014/10/02 15:11]  Invisible Trial Start Button shouts: start_trial_2 BUTTON TOUCHED
+[2014/10/02 15:11]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:11]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:11]  Primitive shouts: TRIAL 2 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:11]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 74.609871, 53.580856
+[2014/10/02 15:12]  FINAL_Vector: Position: 72.559959, 55.769310
+[2014/10/02 15:12]  FINAL_Vector: Position: 71.260971, 57.398006
+[2014/10/02 15:12]  FINAL_Vector: Position: 68.841141, 60.785816
+[2014/10/02 15:12]  FINAL_Vector: Position: 68.328766, 64.767532
+[2014/10/02 15:12]  FINAL_Vector: Position: 68.774307, 68.265549
+[2014/10/02 15:12]  FINAL_Vector: Position: 68.829941, 68.438309
+[2014/10/02 15:12]  FINAL_Vector: Position: 68.829941, 68.438309
+[2014/10/02 15:12]  FINAL_Vector: Position: 68.829941, 68.438309
+[2014/10/02 15:12]  FINAL_Vector: Position: 68.829941, 68.438309
+[2014/10/02 15:12]  FINAL_Vector: Position: 69.447578, 66.464989
+[2014/10/02 15:12]  FINAL_Vector: Position: 69.660225, 65.783539
+[2014/10/02 15:12]  FINAL_Vector: Position: 69.660225, 65.783539
+[2014/10/02 15:12]  FINAL_Vector: Position: 70.566704, 64.031319
+[2014/10/02 15:12]  FINAL_Vector: Position: 70.573051, 64.019279
+[2014/10/02 15:12]  FINAL_Vector: Position: 70.573051, 64.019279
+[2014/10/02 15:12]  FINAL_Vector: Position: 70.573051, 64.019279
+[2014/10/02 15:12]  FINAL_Vector: Position: 70.573051, 64.019279
+[2014/10/02 15:12]  FINAL_Vector: Position: 70.573051, 64.019279
+[2014/10/02 15:12]  FINAL_Vector: Position: 70.573051, 64.019279
+[2014/10/02 15:12]  FINAL_Probe: I think the target is here at <70.573051,64.019279,19.405643>
+[2014/10/02 15:13]  Invisible Trial Start Button shouts: start_trial_3 BUTTON TOUCHED
+[2014/10/02 15:13]  3 BUTTON shouts: rez_target_3 BUTTON TOUCHED
+[2014/10/02 15:13]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:13]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:13]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:13]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:13]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:13]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:13]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:13]  FINAL_Vector: Position: 54.367474, 53.331890
+[2014/10/02 15:13]  FINAL_Vector: Position: 51.585880, 50.728725
+[2014/10/02 15:13]  FINAL_Vector: Position: 50.914982, 49.644501
+[2014/10/02 15:13]  FINAL_Vector: Position: 53.948273, 48.378723
+[2014/10/02 15:13]  FINAL_Vector: Position: 54.643402, 48.453468
+[2014/10/02 15:13]  FINAL_Vector: Position: 55.303482, 48.456360
+[2014/10/02 15:13]  FINAL_Vector: Position: 57.588581, 45.691280
+[2014/10/02 15:13]  FINAL_Vector: Position: 60.881371, 44.863605
+[2014/10/02 15:13]  FINAL_Vector: Position: 64.933571, 44.563339
+[2014/10/02 15:13]  FINAL_Vector: Position: 68.673248, 45.998474
+[2014/10/02 15:13]  FINAL_Vector: Position: 71.963486, 47.742809
+[2014/10/02 15:13]  FINAL_Vector: Position: 74.801041, 50.641838
+[2014/10/02 15:13]  FINAL_Vector: Position: 77.438332, 53.866554
+[2014/10/02 15:13]  FINAL_Vector: Position: 79.432632, 57.159786
+[2014/10/02 15:13]  FINAL_Vector: Position: 80.228539, 61.111691
+[2014/10/02 15:13]  FINAL_Vector: Position: 80.194031, 65.204056
+[2014/10/02 15:13]  FINAL_Vector: Position: 79.177925, 68.760132
+[2014/10/02 15:13]  FINAL_Vector: Position: 78.070313, 72.639366
+[2014/10/02 15:13]  FINAL_Vector: Position: 76.099159, 76.195129
+[2014/10/02 15:13]  FINAL_Vector: Position: 73.581322, 78.957916
+[2014/10/02 15:13]  FINAL_Vector: Position: 69.714134, 80.026276
+[2014/10/02 15:13]  FINAL_Vector: Position: 65.691490, 80.863068
+[2014/10/02 15:13]  FINAL_Vector: Position: 62.035931, 80.167847
+[2014/10/02 15:13]  FINAL_Vector: Position: 58.167469, 79.022133
+[2014/10/02 15:13]  FINAL_Vector: Position: 54.645020, 76.885872
+[2014/10/02 15:13]  FINAL_Vector: Position: 52.031357, 74.106369
+[2014/10/02 15:13]  FINAL_Vector: Position: 49.555233, 70.925941
+[2014/10/02 15:13]  FINAL_Vector: Position: 47.331795, 67.521065
+[2014/10/02 15:13]  FINAL_Vector: Position: 46.455837, 64.922485
+[2014/10/02 15:13]  FINAL_Vector: Position: 46.494591, 60.911743
+[2014/10/02 15:13]  FINAL_Vector: Position: 47.290070, 57.320385
+[2014/10/02 15:13]  FINAL_Vector: Position: 50.213863, 54.569958
+[2014/10/02 15:13]  FINAL_Vector: Position: 53.643345, 52.391228
+[2014/10/02 15:13]  FINAL_Vector: Position: 56.620850, 52.271221
+[2014/10/02 15:13]  FINAL_Vector: Position: 57.334080, 53.370113
+[2014/10/02 15:13]  FINAL_Vector: Position: 58.548962, 55.011322
+[2014/10/02 15:13]  FINAL_Vector: Position: 61.735355, 56.751816
+[2014/10/02 15:13]  FINAL_Vector: Position: 64.922379, 58.753464
+[2014/10/02 15:14]  FINAL_Vector: Position: 67.590042, 62.034008
+[2014/10/02 15:14]  FINAL_Vector: Position: 67.613960, 66.061577
+[2014/10/02 15:14]  FINAL_Vector: Position: 65.885712, 69.340424
+[2014/10/02 15:14]  FINAL_Vector: Position: 62.480541, 71.715302
+[2014/10/02 15:14]  FINAL_Vector: Position: 58.322338, 71.668327
+[2014/10/02 15:14]  FINAL_Vector: Position: 55.212219, 69.476891
+[2014/10/02 15:14]  FINAL_Vector: Position: 54.741787, 65.512642
+[2014/10/02 15:14]  FINAL_Vector: Position: 55.802883, 61.706779
+[2014/10/02 15:14]  FINAL_Vector: Position: 59.172314, 62.518303
+[2014/10/02 15:14]  FINAL_Vector: Position: 62.868118, 63.249317
+[2014/10/02 15:14]  FINAL_Vector: Position: 63.791908, 59.439823
+[2014/10/02 15:14]  FINAL_Vector: Position: 66.258781, 57.099136
+[2014/10/02 15:14]  FINAL_Vector: Position: 69.955925, 59.049824
+[2014/10/02 15:14]  FINAL_Vector: Position: 70.872948, 62.723446
+[2014/10/02 15:14]  FINAL_Vector: Position: 68.262802, 65.643913
+[2014/10/02 15:14]  FINAL_Vector: Position: 64.659309, 65.605301
+[2014/10/02 15:14]  FINAL_Vector: Position: 62.630539, 62.336102
+[2014/10/02 15:14]  FINAL_Vector: Position: 63.018055, 58.257332
+[2014/10/02 15:14]  FINAL_Vector: Position: 65.957336, 56.228264
+[2014/10/02 15:14]  FINAL_Vector: Position: 69.249161, 58.398941
+[2014/10/02 15:14]  FINAL_Vector: Position: 69.339516, 62.140217
+[2014/10/02 15:14]  FINAL_Vector: Position: 67.459953, 65.668213
+[2014/10/02 15:14]  FINAL_Vector: Position: 63.619461, 66.873787
+[2014/10/02 15:14]  FINAL_Vector: Position: 60.663277, 69.247169
+[2014/10/02 15:14]  FINAL_Vector: Position: 56.607178, 69.504929
+[2014/10/02 15:14]  FINAL_Vector: Position: 56.301010, 69.397758
+[2014/10/02 15:14]  FINAL_Vector: Position: 54.514526, 67.834808
+[2014/10/02 15:14]  FINAL_Vector: Position: 53.262772, 64.045570
+[2014/10/02 15:14]  FINAL_Vector: Position: 53.638199, 59.910290
+[2014/10/02 15:14]  FINAL_Vector: Position: 55.518124, 56.667564
+[2014/10/02 15:14]  FINAL_Vector: Position: 59.467999, 55.510174
+[2014/10/02 15:14]  FINAL_Vector: Position: 62.998787, 57.638706
+[2014/10/02 15:14]  FINAL_Vector: Position: 64.998558, 60.763004
+[2014/10/02 15:14]  FINAL_Vector: Position: 63.621304, 64.517548
+[2014/10/02 15:14]  FINAL_Vector: Position: 62.043785, 67.862183
+[2014/10/02 15:14]  FINAL_Vector: Position: 59.639259, 71.148071
+[2014/10/02 15:14]  FINAL_Vector: Position: 56.205482, 73.180481
+[2014/10/02 15:14]  FINAL_Vector: Position: 52.588757, 72.101601
+[2014/10/02 15:14]  FINAL_Vector: Position: 50.301044, 69.061096
+[2014/10/02 15:14]  FINAL_Vector: Position: 49.670506, 64.949409
+[2014/10/02 15:14]  FINAL_Vector: Position: 49.922211, 60.896015
+[2014/10/02 15:14]  FINAL_Vector: Position: 50.645309, 57.118092
+[2014/10/02 15:14]  FINAL_Vector: Position: 53.239330, 53.995266
+[2014/10/02 15:14]  FINAL_Vector: Position: 56.619701, 52.239243
+[2014/10/02 15:14]  FINAL_Vector: Position: 60.644028, 52.373821
+[2014/10/02 15:14]  FINAL_Vector: Position: 64.550903, 53.379642
+[2014/10/02 15:14]  FINAL_Vector: Position: 68.132454, 54.301716
+[2014/10/02 15:14]  FINAL_Vector: Position: 71.730354, 55.438549
+[2014/10/02 15:14]  FINAL_Vector: Position: 75.242401, 57.547077
+[2014/10/02 15:14]  FINAL_Vector: Position: 76.392181, 61.334267
+[2014/10/02 15:14]  FINAL_Vector: Position: 75.649391, 64.949165
+[2014/10/02 15:14]  FINAL_Vector: Position: 74.824455, 68.898186
+[2014/10/02 15:14]  FINAL_Vector: Position: 73.319633, 72.766533
+[2014/10/02 15:14]  FINAL_Vector: Position: 70.366127, 75.054886
+[2014/10/02 15:14]  FINAL_Vector: Position: 66.366997, 74.814224
+[2014/10/02 15:15]  FINAL_Vector: Position: 62.536823, 73.547119
+[2014/10/02 15:15]  FINAL_Vector: Position: 59.025883, 72.385681
+[2014/10/02 15:15]  FINAL_Vector: Position: 55.202263, 71.124985
+[2014/10/02 15:15]  FINAL_Vector: Position: 51.335205, 69.824539
+[2014/10/02 15:15]  FINAL_Vector: Position: 48.696503, 67.221031
+[2014/10/02 15:15]  FINAL_Vector: Position: 46.520935, 63.670418
+[2014/10/02 15:15]  FINAL_Vector: Position: 47.556461, 59.815788
+[2014/10/02 15:15]  FINAL_Vector: Position: 49.952671, 56.773308
+[2014/10/02 15:15]  FINAL_Vector: Position: 52.613770, 53.445667
+[2014/10/02 15:15]  FINAL_Vector: Position: 55.771698, 50.735664
+[2014/10/02 15:15]  FINAL_Vector: Position: 59.488327, 51.223938
+[2014/10/02 15:15]  FINAL_Vector: Position: 63.192436, 52.872669
+[2014/10/02 15:15]  FINAL_Vector: Position: 66.701866, 54.862179
+[2014/10/02 15:15]  FINAL_Vector: Position: 69.643120, 57.220161
+[2014/10/02 15:15]  FINAL_Vector: Position: 72.602974, 60.099396
+[2014/10/02 15:15]  FINAL_Vector: Position: 73.541420, 63.969105
+[2014/10/02 15:15]  FINAL_Vector: Position: 73.127632, 67.676056
+[2014/10/02 15:15]  FINAL_Vector: Position: 70.819405, 71.134644
+[2014/10/02 15:15]  FINAL_Vector: Position: 68.370102, 74.108215
+[2014/10/02 15:15]  FINAL_Vector: Position: 64.929321, 76.406029
+[2014/10/02 15:15]  FINAL_Vector: Position: 60.847485, 76.903175
+[2014/10/02 15:15]  FINAL_Vector: Position: 57.434460, 75.372528
+[2014/10/02 15:15]  FINAL_Vector: Position: 55.560005, 71.744057
+[2014/10/02 15:15]  FINAL_Vector: Position: 54.645458, 68.161392
+[2014/10/02 15:15]  FINAL_Vector: Position: 53.648361, 64.252106
+[2014/10/02 15:15]  FINAL_Vector: Position: 52.734474, 60.668850
+[2014/10/02 15:15]  FINAL_Vector: Position: 51.947590, 56.629879
+[2014/10/02 15:15]  FINAL_Vector: Position: 53.554756, 53.006165
+[2014/10/02 15:15]  FINAL_Vector: Position: 57.129635, 52.144005
+[2014/10/02 15:15]  FINAL_Vector: Position: 61.071991, 51.288548
+[2014/10/02 15:15]  FINAL_Vector: Position: 65.062538, 51.604454
+[2014/10/02 15:15]  FINAL_Vector: Position: 67.765533, 54.101898
+[2014/10/02 15:15]  FINAL_Vector: Position: 70.732147, 56.894680
+[2014/10/02 15:15]  FINAL_Vector: Position: 72.452576, 60.609970
+[2014/10/02 15:15]  FINAL_Vector: Position: 72.557922, 64.343140
+[2014/10/02 15:15]  FINAL_Vector: Position: 72.907921, 68.350311
+[2014/10/02 15:15]  FINAL_Vector: Position: 72.940254, 72.052750
+[2014/10/02 15:15]  FINAL_Vector: Position: 70.457924, 75.265755
+[2014/10/02 15:15]  FINAL_Vector: Position: 67.236588, 76.284142
+[2014/10/02 15:15]  FINAL_Vector: Position: 67.035851, 76.098602
+[2014/10/02 15:15]  FINAL_Vector: Position: 66.610146, 75.972000
+[2014/10/02 15:15]  FINAL_Vector: Position: 63.772087, 75.360886
+[2014/10/02 15:15]  FINAL_Vector: Position: 60.256454, 73.722076
+[2014/10/02 15:15]  FINAL_Vector: Position: 56.403297, 71.828995
+[2014/10/02 15:15]  FINAL_Vector: Position: 53.465355, 69.369469
+[2014/10/02 15:15]  FINAL_Vector: Position: 52.469875, 65.460487
+[2014/10/02 15:15]  FINAL_Vector: Position: 51.770611, 61.408581
+[2014/10/02 15:15]  FINAL_Vector: Position: 52.196171, 57.635921
+[2014/10/02 15:15]  FINAL_Vector: Position: 55.444553, 55.171127
+[2014/10/02 15:15]  FINAL_Vector: Position: 58.805031, 52.953224
+[2014/10/02 15:15]  FINAL_Vector: Position: 62.150143, 54.112144
+[2014/10/02 15:15]  FINAL_Vector: Position: 65.168091, 57.025757
+[2014/10/02 15:15]  FINAL_Vector: Position: 69.373314, 57.602463
+[2014/10/02 15:15]  FINAL_Vector: Position: 70.905609, 60.894363
+[2014/10/02 15:15]  FINAL_Vector: Position: 71.543427, 64.878151
+[2014/10/02 15:16]  FINAL_Vector: Position: 71.758827, 68.618698
+[2014/10/02 15:16]  FINAL_Vector: Position: 70.194496, 71.946526
+[2014/10/02 15:16]  FINAL_Vector: Position: 66.312744, 71.907455
+[2014/10/02 15:16]  FINAL_Vector: Position: 64.173759, 68.427200
+[2014/10/02 15:16]  FINAL_Vector: Position: 61.733696, 65.851006
+[2014/10/02 15:16]  FINAL_Vector: Position: 61.593662, 65.708496
+[2014/10/02 15:16]  FINAL_Vector: Position: 61.593662, 65.708496
+[2014/10/02 15:16]  FINAL_Vector: Position: 61.593662, 65.708496
+[2014/10/02 15:16]  FINAL_Vector: Position: 61.593662, 65.708496
+[2014/10/02 15:16]  FINAL_Vector: Position: 61.465439, 65.792717
+[2014/10/02 15:16]  FINAL_Vector: Position: 58.010872, 67.645859
+[2014/10/02 15:16]  FINAL_Vector: Position: 56.059258, 67.566368
+[2014/10/02 15:16]  FINAL_Vector: Position: 56.035347, 67.560539
+[2014/10/02 15:16]  FINAL_Vector: Position: 56.035347, 67.560539
+[2014/10/02 15:16]  FINAL_Timer shouts: 180.082865Time has expired. Please swim to the target.
+[2014/10/02 15:16]  return_teleporter: You have reached the target.
+[2014/10/02 15:16]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:16]  target_3 shouts: target found
+[2014/10/02 15:16]  target_3: You have reached the target.
+[2014/10/02 15:16]  target_3: Look around so you can find your way back to this target.
+[2014/10/02 15:16]  return_teleporter: When you are ready for another target hunt, type the letters okay into the chat dialog box and hit enter. Then right click on the blue screen and choose teleport.
+[2014/10/02 15:16]  Water Maze: ok
+[2014/10/02 15:16]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:17]  Invisible Trial Start Button shouts: start_trial_3 BUTTON TOUCHED
+[2014/10/02 15:17]  3 BUTTON shouts: rez_target_3 BUTTON TOUCHED
+[2014/10/02 15:17]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:17]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:17]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:17]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:17]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:17]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:17]  FINAL_Vector: Position: 55.797760, 53.703602
+[2014/10/02 15:17]  FINAL_Vector: Position: 56.841679, 56.172680
+[2014/10/02 15:17]  FINAL_Vector: Position: 60.375671, 58.203506
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.038288, 57.636028
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.257660, 59.244862
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.522816, 61.189610
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.739605, 62.789013
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.923813, 64.142296
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.923813, 64.142296
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.548668, 66.294136
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.429359, 66.979301
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.429359, 66.979301
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.429359, 66.979301
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.243954, 68.594696
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.167545, 69.260445
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.167545, 69.260445
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.167545, 69.260445
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.182831, 69.110382
+[2014/10/02 15:17]  FINAL_Vector: Position: 61.853260, 72.346336
+[2014/10/02 15:17]  FINAL_Vector: Position: 61.704247, 73.809212
+[2014/10/02 15:17]  FINAL_Vector: Position: 61.704247, 73.809212
+[2014/10/02 15:17]  FINAL_Vector: Position: 61.704247, 73.809212
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.088966, 71.170052
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.075272, 69.131981
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.074680, 69.127464
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.261597, 68.156723
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.315247, 67.878113
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.355419, 67.630661
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.658684, 65.764542
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.768303, 65.088234
+[2014/10/02 15:17]  FINAL_Vector: Position: 62.768303, 65.088234
+[2014/10/02 15:17]  FINAL_Vector: Position: 63.208523, 64.568748
+[2014/10/02 15:17]  FINAL_Vector: Position: 65.083458, 62.624664
+[2014/10/02 15:17]  FINAL_Vector: Position: 65.161522, 61.258083
+[2014/10/02 15:17]  FINAL_Vector: Position: 61.859287, 61.387199
+[2014/10/02 15:17]  FINAL_Vector: Position: 58.099312, 62.701935
+[2014/10/02 15:17]  FINAL_Vector: Position: 58.611549, 62.466320
+[2014/10/02 15:17]  FINAL_Vector: Position: 58.336166, 64.054321
+[2014/10/02 15:17]  FINAL_Vector: Position: 60.938728, 63.723541
+[2014/10/02 15:17]  FINAL_Vector: Position: 61.534969, 62.865364
+[2014/10/02 15:18]  FINAL_Vector: Position: 61.534969, 62.865364
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.067459, 62.413231
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.522030, 62.120239
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.016129, 60.328926
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.223396, 58.605518
+[2014/10/02 15:18]  FINAL_Vector: Position: 64.620132, 56.497536
+[2014/10/02 15:18]  FINAL_Vector: Position: 61.838127, 56.704700
+[2014/10/02 15:18]  FINAL_Vector: Position: 58.306431, 57.070831
+[2014/10/02 15:18]  FINAL_Vector: Position: 61.574928, 56.734840
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.612755, 56.317818
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.822975, 56.449059
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.938446, 58.403427
+[2014/10/02 15:18]  FINAL_Vector: Position: 63.981632, 58.363922
+[2014/10/02 15:18]  FINAL_Vector: Position: 61.951855, 58.309338
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.288605, 58.214428
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.296921, 58.212574
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.296921, 58.212574
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.227055, 58.344990
+[2014/10/02 15:18]  FINAL_Vector: Position: 61.049461, 60.576649
+[2014/10/02 15:18]  FINAL_Vector: Position: 60.781406, 59.683155
+[2014/10/02 15:18]  FINAL_Vector: Position: 59.139694, 58.539112
+[2014/10/02 15:18]  FINAL_Vector: Position: 55.514019, 57.463875
+[2014/10/02 15:18]  FINAL_Vector: Position: 54.762959, 57.570404
+[2014/10/02 15:18]  FINAL_Vector: Position: 54.649712, 59.083611
+[2014/10/02 15:18]  FINAL_Vector: Position: 56.660725, 59.290699
+[2014/10/02 15:18]  FINAL_Vector: Position: 59.753887, 61.326565
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.476696, 59.482342
+[2014/10/02 15:18]  FINAL_Vector: Position: 62.179752, 61.253735
+[2014/10/02 15:18]  FINAL_Vector: Position: 63.370365, 61.119755
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.443161, 61.012295
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.794243, 61.077976
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.794243, 61.077976
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.794243, 61.077976
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.794243, 61.077976
+[2014/10/02 15:18]  FINAL_Vector: Position: 65.794243, 61.077976
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.216431, 63.319981
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.460922, 64.603661
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.460922, 64.603661
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.409630, 66.121780
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.335823, 68.309959
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.330772, 68.460701
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.330772, 68.460701
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.330772, 68.460701
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.353745, 67.782143
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.390541, 66.692360
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.395111, 66.556252
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.395111, 66.556252
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.395111, 66.556252
+[2014/10/02 15:18]  FINAL_Vector: Position: 66.541672, 66.473877
+[2014/10/02 15:18]  FINAL_Vector: Position: 68.383835, 66.271889
+[2014/10/02 15:18]  FINAL_Vector: Position: 68.384705, 66.271957
+[2014/10/02 15:18]  FINAL_Vector: Position: 68.384705, 66.271957
+[2014/10/02 15:18]  FINAL_Vector: Position: 68.384705, 66.271957
+[2014/10/02 15:18]  FINAL_Vector: Position: 68.384705, 66.271957
+[2014/10/02 15:18]  FINAL_Vector: Position: 68.360374, 65.994904
+[2014/10/02 15:18]  FINAL_Vector: Position: 68.360374, 65.994904
+[2014/10/02 15:19]  FINAL_Vector: Position: 68.392624, 66.621834
+[2014/10/02 15:19]  FINAL_Vector: Position: 68.537697, 66.260544
+[2014/10/02 15:19]  FINAL_Vector: Position: 68.993423, 65.121590
+[2014/10/02 15:19]  FINAL_Vector: Position: 69.980598, 64.579659
+[2014/10/02 15:19]  FINAL_Vector: Position: 71.430428, 64.718796
+[2014/10/02 15:19]  FINAL_Vector: Position: 72.058670, 65.088043
+[2014/10/02 15:19]  FINAL_Vector: Position: 72.991257, 66.444977
+[2014/10/02 15:19]  FINAL_Vector: Position: 72.991257, 66.444977
+[2014/10/02 15:19]  FINAL_Vector: Position: 72.991257, 66.444977
+[2014/10/02 15:19]  FINAL_Vector: Position: 72.991257, 66.444977
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.575935, 68.769844
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.979057, 70.025932
+[2014/10/02 15:19]  FINAL_Vector: Position: 75.432838, 69.278801
+[2014/10/02 15:19]  FINAL_Vector: Position: 76.809227, 67.825768
+[2014/10/02 15:19]  FINAL_Vector: Position: 76.816788, 67.812515
+[2014/10/02 15:19]  FINAL_Vector: Position: 76.816788, 67.812515
+[2014/10/02 15:19]  FINAL_Vector: Position: 76.073433, 66.355438
+[2014/10/02 15:19]  FINAL_Vector: Position: 75.370834, 64.978241
+[2014/10/02 15:19]  FINAL_Vector: Position: 75.338112, 64.914101
+[2014/10/02 15:19]  FINAL_Vector: Position: 75.338112, 64.914101
+[2014/10/02 15:19]  FINAL_Vector: Position: 74.786209, 63.485786
+[2014/10/02 15:19]  FINAL_Vector: Position: 74.373131, 62.417934
+[2014/10/02 15:19]  FINAL_Vector: Position: 74.315834, 62.269836
+[2014/10/02 15:19]  FINAL_Vector: Position: 74.380013, 62.122200
+[2014/10/02 15:19]  FINAL_Vector: Position: 75.728058, 60.804146
+[2014/10/02 15:19]  FINAL_Vector: Position: 75.403419, 59.115417
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.963531, 58.038906
+[2014/10/02 15:19]  FINAL_Vector: Position: 74.370453, 57.438442
+[2014/10/02 15:19]  FINAL_Vector: Position: 75.650436, 56.991600
+[2014/10/02 15:19]  FINAL_Vector: Position: 74.987740, 59.532387
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.968651, 63.434631
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.867958, 63.815582
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.867958, 63.815582
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.867958, 63.815582
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.867958, 63.815582
+[2014/10/02 15:19]  FINAL_Vector: Position: 73.867958, 63.815582
+[2014/10/02 15:19]  FINAL_Vector: Position: 71.954102, 64.200150
+[2014/10/02 15:19]  FINAL_Vector: Position: 68.327255, 64.928940
+[2014/10/02 15:19]  FINAL_Vector: Position: 64.517281, 65.694389
+[2014/10/02 15:19]  FINAL_Vector: Position: 64.315254, 65.734970
+[2014/10/02 15:19]  FINAL_Vector: Position: 64.315254, 65.734970
+[2014/10/02 15:19]  FINAL_Vector: Position: 64.315254, 65.734970
+[2014/10/02 15:19]  FINAL_Vector: Position: 62.250278, 64.961372
+[2014/10/02 15:19]  FINAL_Vector: Position: 63.047535, 65.242508
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.789764, 66.035828
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.785358, 66.037399
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.785358, 66.037399
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.785358, 66.037399
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.785358, 66.037399
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.785358, 66.037399
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.785358, 66.037399
+[2014/10/02 15:19]  FINAL_Vector: Position: 60.785358, 66.037399
+[2014/10/02 15:19]  FINAL_Vector: Position: 58.642334, 66.788795
+[2014/10/02 15:19]  FINAL_Vector: Position: 58.638775, 66.791367
+[2014/10/02 15:19]  FINAL_Vector: Position: 57.942028, 68.265144
+[2014/10/02 15:19]  FINAL_Vector: Position: 57.485909, 69.229736
+[2014/10/02 15:20]  FINAL_Vector: Position: 57.485909, 69.229736
+[2014/10/02 15:20]  FINAL_Vector: Position: 57.485909, 69.229736
+[2014/10/02 15:20]  FINAL_Vector: Position: 57.385960, 67.942680
+[2014/10/02 15:20]  FINAL_Vector: Position: 57.327801, 67.210236
+[2014/10/02 15:20]  FINAL_Vector: Position: 53.873142, 67.652412
+[2014/10/02 15:20]  FINAL_Timer shouts: 180.106134Time has expired. Please swim to the target.
+[2014/10/02 15:20]  return_teleporter: You have reached the target.
+[2014/10/02 15:20]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:20]  target_3 shouts: target found
+[2014/10/02 15:20]  target_3: You have reached the target.
+[2014/10/02 15:20]  target_3: Look around so you can find your way back to this target.
+[2014/10/02 15:20]  return_teleporter: When you are ready for another target hunt, type the letters okay into the chat dialog box and hit enter. Then right click on the blue screen and choose teleport.
+[2014/10/02 15:20]  Water Maze: ok
+[2014/10/02 15:20]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:21]  Invisible Trial Start Button shouts: start_trial_3 BUTTON TOUCHED
+[2014/10/02 15:21]  3 BUTTON shouts: rez_target_3 BUTTON TOUCHED
+[2014/10/02 15:21]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:21]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:21]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:21]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:21]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:21]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:21]  FINAL_Vector: Position: 55.064117, 53.572929
+[2014/10/02 15:21]  FINAL_Vector: Position: 55.065556, 53.573273
+[2014/10/02 15:21]  FINAL_Vector: Position: 55.065556, 53.573273
+[2014/10/02 15:21]  FINAL_Vector: Position: 55.065556, 53.573273
+[2014/10/02 15:21]  FINAL_Vector: Position: 56.691181, 53.952896
+[2014/10/02 15:21]  FINAL_Vector: Position: 60.686821, 52.940956
+[2014/10/02 15:21]  FINAL_Vector: Position: 64.431175, 53.630268
+[2014/10/02 15:21]  FINAL_Vector: Position: 68.502190, 53.307770
+[2014/10/02 15:21]  FINAL_Vector: Position: 72.536324, 53.811184
+[2014/10/02 15:21]  FINAL_Vector: Position: 75.979965, 52.469440
+[2014/10/02 15:21]  FINAL_Vector: Position: 79.970200, 53.049076
+[2014/10/02 15:21]  FINAL_Vector: Position: 79.981140, 53.021263
+[2014/10/02 15:21]  FINAL_Vector: Position: 79.909851, 53.309044
+[2014/10/02 15:21]  FINAL_Vector: Position: 79.907791, 53.317368
+[2014/10/02 15:21]  FINAL_Vector: Position: 79.907791, 53.317368
+[2014/10/02 15:21]  FINAL_Vector: Position: 77.958488, 54.534458
+[2014/10/02 15:21]  FINAL_Vector: Position: 74.536423, 56.671104
+[2014/10/02 15:21]  FINAL_Vector: Position: 71.399567, 58.629642
+[2014/10/02 15:21]  FINAL_Vector: Position: 67.977562, 60.766258
+[2014/10/02 15:21]  FINAL_Vector: Position: 64.558594, 62.904968
+[2014/10/02 15:21]  FINAL_Vector: Position: 61.422684, 64.863045
+[2014/10/02 15:21]  FINAL_Vector: Position: 58.001175, 66.999382
+[2014/10/02 15:21]  FINAL_Vector: Position: 57.704426, 67.184654
+[2014/10/02 15:21]  FINAL_Vector: Position: 57.704426, 67.184654
+[2014/10/02 15:21]  FINAL_Vector: Position: 57.704426, 67.184654
+[2014/10/02 15:21]  FINAL_Vector: Position: 57.704426, 67.184654
+[2014/10/02 15:21]  FINAL_Vector: Position: 57.800045, 65.842834
+[2014/10/02 15:21]  return_teleporter: You have reached the target.
+[2014/10/02 15:21]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:21]  target_3 shouts: target found
+[2014/10/02 15:21]  target_3: You have reached the target.
+[2014/10/02 15:21]  target_3: Look around so you can find your way back to this target.
+[2014/10/02 15:21]  FINAL_Timer shouts: 32.968798Target found.
+[2014/10/02 15:21]  Water Maze: ok
+[2014/10/02 15:21]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:22]  Invisible Trial Start Button shouts: start_trial_3 BUTTON TOUCHED
+[2014/10/02 15:22]  3 BUTTON shouts: rez_target_3 BUTTON TOUCHED
+[2014/10/02 15:22]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:22]  FINAL_Timer shouts: 0.001000Timer Started.
+[2014/10/02 15:22]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:22]  FINAL_Vector: Position: 74.475517, 53.433006
+[2014/10/02 15:22]  FINAL_Vector: Position: 74.475517, 53.433006
+[2014/10/02 15:22]  FINAL_Vector: Position: 74.475517, 53.433006
+[2014/10/02 15:22]  FINAL_Vector: Position: 74.475517, 53.433006
+[2014/10/02 15:22]  FINAL_Vector: Position: 75.129654, 54.159142
+[2014/10/02 15:22]  FINAL_Vector: Position: 77.583488, 56.883049
+[2014/10/02 15:22]  FINAL_Vector: Position: 80.845001, 59.208206
+[2014/10/02 15:22]  FINAL_Vector: Position: 81.514114, 59.344372
+[2014/10/02 15:22]  FINAL_Vector: Position: 81.514114, 59.344372
+[2014/10/02 15:22]  FINAL_Vector: Position: 78.921486, 59.934772
+[2014/10/02 15:22]  FINAL_Vector: Position: 75.012955, 60.933796
+[2014/10/02 15:22]  FINAL_Vector: Position: 71.430244, 61.849529
+[2014/10/02 15:22]  FINAL_Vector: Position: 69.040627, 62.459019
+[2014/10/02 15:22]  FINAL_Vector: Position: 69.039604, 62.459282
+[2014/10/02 15:22]  FINAL_Vector: Position: 69.039604, 62.459282
+[2014/10/02 15:22]  FINAL_Vector: Position: 67.819901, 61.349796
+[2014/10/02 15:22]  FINAL_Vector: Position: 67.094559, 61.284428
+[2014/10/02 15:22]  FINAL_Vector: Position: 66.280487, 64.308105
+[2014/10/02 15:22]  FINAL_Vector: Position: 66.254501, 64.407898
+[2014/10/02 15:22]  FINAL_Vector: Position: 66.254501, 64.407898
+[2014/10/02 15:22]  FINAL_Vector: Position: 66.254501, 64.407898
+[2014/10/02 15:22]  FINAL_Vector: Position: 65.914116, 64.999237
+[2014/10/02 15:22]  FINAL_Vector: Position: 64.975761, 68.480957
+[2014/10/02 15:22]  FINAL_Vector: Position: 64.992226, 68.572151
+[2014/10/02 15:22]  FINAL_Vector: Position: 64.992226, 68.572151
+[2014/10/02 15:22]  FINAL_Vector: Position: 64.992226, 68.572151
+[2014/10/02 15:22]  FINAL_Vector: Position: 64.992226, 68.572151
+[2014/10/02 15:22]  FINAL_Vector: Position: 64.874153, 68.481949
+[2014/10/02 15:22]  FINAL_Vector: Position: 62.035614, 66.485016
+[2014/10/02 15:22]  FINAL_Vector: Position: 61.876411, 66.373543
+[2014/10/02 15:22]  FINAL_Vector: Position: 61.876411, 66.373543
+[2014/10/02 15:22]  FINAL_Vector: Position: 62.090061, 65.429878
+[2014/10/02 15:22]  FINAL_Vector: Position: 62.524136, 63.491276
+[2014/10/02 15:22]  FINAL_Vector: Position: 62.384418, 64.115570
+[2014/10/02 15:22]  FINAL_Vector: Position: 59.877571, 63.301388
+[2014/10/02 15:22]  FINAL_Vector: Position: 57.565804, 62.552147
+[2014/10/02 15:22]  FINAL_Vector: Position: 57.564789, 62.551819
+[2014/10/02 15:22]  FINAL_Vector: Position: 57.254120, 63.800552
+[2014/10/02 15:22]  return_teleporter: You have reached the target.
+[2014/10/02 15:22]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:22]  target_3 shouts: target found
+[2014/10/02 15:22]  target_3: You have reached the target.
+[2014/10/02 15:22]  target_3: Look around so you can find your way back to this target.
+[2014/10/02 15:22]  FINAL_Timer shouts: 41.507879Target found.
+[2014/10/02 15:23]  Water Maze: ok
+[2014/10/02 15:23]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:23]  Invisible Trial Start Button shouts: start_trial_3 BUTTON TOUCHED
+[2014/10/02 15:23]  3 BUTTON shouts: rez_target_3 BUTTON TOUCHED
+[2014/10/02 15:23]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:23]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:23]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:23]  FINAL_Vector: Position: 54.475517, 73.433006
+[2014/10/02 15:23]  FINAL_Vector: Position: 54.475517, 73.433006
+[2014/10/02 15:23]  FINAL_Vector: Position: 54.475517, 73.433006
+[2014/10/02 15:23]  FINAL_Vector: Position: 54.475517, 73.433006
+[2014/10/02 15:23]  FINAL_Vector: Position: 54.475517, 73.433006
+[2014/10/02 15:23]  FINAL_Vector: Position: 54.609497, 73.048248
+[2014/10/02 15:23]  FINAL_Vector: Position: 55.451477, 70.630249
+[2014/10/02 15:23]  FINAL_Vector: Position: 55.682682, 69.179588
+[2014/10/02 15:23]  FINAL_Vector: Position: 56.053078, 68.071220
+[2014/10/02 15:23]  return_teleporter: You have reached the target.
+[2014/10/02 15:23]  return_teleporter: Look around, while you are on the target. Can you find your way back to this target again?.
+[2014/10/02 15:23]  target_3 shouts: target found
+[2014/10/02 15:23]  target_3: You have reached the target.
+[2014/10/02 15:23]  target_3: Look around so you can find your way back to this target.
+[2014/10/02 15:23]  FINAL_Timer shouts: 10.579987Target found.
+[2014/10/02 15:23]  Water Maze: ok
+[2014/10/02 15:23]  return_teleporter: Right click on the blue screen and choose teleport to return to start.
+[2014/10/02 15:24]  Invisible Trial Start Button shouts: start_trial_3 BUTTON TOUCHED
+[2014/10/02 15:24]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:24]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:24]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:24]  FINAL_Vector: Position: 74.475517, 73.433006
+[2014/10/02 15:24]  FINAL_Vector: Position: 74.475517, 73.433006
+[2014/10/02 15:24]  FINAL_Vector: Position: 74.475517, 73.433006
+[2014/10/02 15:24]  FINAL_Vector: Position: 74.475517, 73.433006
+[2014/10/02 15:24]  FINAL_Vector: Position: 74.475517, 73.433006
+[2014/10/02 15:24]  FINAL_Vector: Position: 73.484314, 72.164742
+[2014/10/02 15:24]  FINAL_Vector: Position: 72.866722, 71.374519
+[2014/10/02 15:24]  FINAL_Vector: Position: 72.866722, 71.374519
+[2014/10/02 15:24]  FINAL_Vector: Position: 72.866722, 71.374519
+[2014/10/02 15:24]  FINAL_Vector: Position: 70.156593, 69.519150
+[2014/10/02 15:24]  FINAL_Vector: Position: 67.105438, 67.430298
+[2014/10/02 15:24]  FINAL_Vector: Position: 66.488663, 67.008018
+[2014/10/02 15:24]  FINAL_Vector: Position: 66.488663, 67.008018
+[2014/10/02 15:24]  FINAL_Vector: Position: 66.488663, 67.008018
+[2014/10/02 15:24]  FINAL_Vector: Position: 66.488663, 67.008018
+[2014/10/02 15:24]  FINAL_Vector: Position: 66.656128, 66.368019
+[2014/10/02 15:24]  FINAL_Vector: Position: 66.656128, 66.368019
+[2014/10/02 15:24]  FINAL_Vector: Position: 64.418068, 68.361870
+[2014/10/02 15:24]  FINAL_Vector: Position: 63.854492, 68.879578
+[2014/10/02 15:24]  FINAL_Vector: Position: 63.854492, 68.879578
+[2014/10/02 15:24]  FINAL_Vector: Position: 63.854492, 68.879578
+[2014/10/02 15:24]  FINAL_Vector: Position: 62.771008, 67.868500
+[2014/10/02 15:24]  FINAL_Vector: Position: 61.396152, 68.102203
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.050186, 68.507095
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.050186, 68.507095
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.050186, 68.507095
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.050186, 68.507095
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.050186, 68.507095
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.152210, 67.945976
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.206203, 67.649590
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.206203, 67.649590
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.206203, 67.649590
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.116962, 67.515678
+[2014/10/02 15:24]  FINAL_Vector: Position: 60.047974, 67.412163
+[2014/10/02 15:24]  FINAL_Vector: Position: 58.958771, 65.777779
+[2014/10/02 15:24]  FINAL_Vector: Position: 58.562027, 65.182182
+[2014/10/02 15:24]  FINAL_Vector: Position: 58.562027, 65.182182
+[2014/10/02 15:24]  FINAL_Vector: Position: 58.562027, 65.182182
+[2014/10/02 15:24]  FINAL_Vector: Position: 58.562027, 65.182182
+[2014/10/02 15:24]  FINAL_Vector: Position: 58.562027, 65.182182
+[2014/10/02 15:24]  FINAL_Vector: Position: 58.127014, 64.304672
+[2014/10/02 15:24]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.369289, 62.776211
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.238567, 63.116444
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.238567, 63.116444
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.238567, 63.116444
+[2014/10/02 15:25]  FINAL_Vector: Position: 57.238567, 63.116444
+[2014/10/02 15:25]  FINAL_Probe: I think the target is here at <57.238567,63.116444,19.405645>
+[2014/10/02 15:25]  Invisible Trial Start Button shouts: start_trial_3 BUTTON TOUCHED
+[2014/10/02 15:25]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:25]  FINAL_Timer shouts: 0.000000Timer Started.
+[2014/10/02 15:25]  Primitive shouts: TRIAL 3 TELEPORT BUTTON TOUCHED
+[2014/10/02 15:25]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:25]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:25]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:25]  FINAL_Vector: Position: 54.475521, 53.433006
+[2014/10/02 15:25]  FINAL_Vector: Position: 53.969013, 55.997601
+[2014/10/02 15:25]  FINAL_Vector: Position: 53.371422, 59.023556
+[2014/10/02 15:25]  FINAL_Vector: Position: 53.367947, 59.041126
+[2014/10/02 15:25]  FINAL_Vector: Position: 53.113880, 58.927872
+[2014/10/02 15:25]  FINAL_Vector: Position: 54.531521, 60.543121
+[2014/10/02 15:25]  FINAL_Vector: Position: 55.450943, 62.021835
+[2014/10/02 15:25]  FINAL_Vector: Position: 55.450943, 62.021835
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.450943, 62.021835
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.450943, 62.021835
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.535915, 63.986786
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.561859, 64.748566
+[2014/10/02 15:26]  FINAL_Vector: Position: 55.117249, 65.863861
+[2014/10/02 15:26]  FINAL_Vector: Position: 54.941265, 66.305489
+[2014/10/02 15:26]  FINAL_Vector: Position: 54.741528, 66.806801
+[2014/10/02 15:26]  FINAL_Vector: Position: 54.741528, 66.806801
+[2014/10/02 15:26]  FINAL_Vector: Position: 54.741528, 66.806801
+[2014/10/02 15:26]  FINAL_Vector: Position: 54.741528, 66.806801
+[2014/10/02 15:26]  FINAL_Vector: Position: 54.741528, 66.806801
+[2014/10/02 15:26]  FINAL_Vector: Position: 54.741528, 66.806801
+[2014/10/02 15:26]  FINAL_Probe: I think the target is here at <54.741528,66.806801,19.405602>
